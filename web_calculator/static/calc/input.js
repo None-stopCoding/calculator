@@ -23,8 +23,6 @@ $(inputSelector).on('input blur keyup paste', (e) => {
             });
     }
 
-    //
-    //
     // let validInput = validate($(inputSelector).val());
     // $(inputSelector).val(validInput);
 
