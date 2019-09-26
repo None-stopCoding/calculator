@@ -1,3 +1,8 @@
+# ignore virtual environment folder - one can create it himself
 /venv/*
+
+# ignore IDE config for the working directory
 /.idea/*
+
+# migrations will save us all!
 *.sqlite3
